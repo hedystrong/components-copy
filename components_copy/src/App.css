@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    margin: auto;
+    width: 10%;
+    border: solid 1px black;
+}
+.button1{
+    display: flex;
+}
